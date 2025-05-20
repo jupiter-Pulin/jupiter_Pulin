@@ -1,62 +1,53 @@
-# 👋 Hi, I'm Jupiter-Pulin
+# 👋 你好，我是Pulin / Hi, I'm Pulin
 
-🎓 Currently working at [中科院深圳先进技术研究院]  
-🧠 Research Interests: Smart Contract Security, Formal Verification, Blockchain + AI/IoT  
-📍 Based in Zhuhai, China
+> 🧠 研究方向：智能合约安全、形式化验证、区块链与 AI/物联网结合
+> 🧠 Research Interests: Smart Contract Security, Formal Verification, Blockchain + AI/IoT
 
+> 📍 深圳，中国 / ShenZhen, China
+
+
+## 🔧 技术栈 / Tech Stack
+
+| 层面 / Category        | 工具 & 技术 / Tools & Technologies                                                                                |
+| -------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **语言 / Languages**   | Solidity, Huff, JavaScript, Python                                                                |
+| **方向 / Specialties** | 智能合约审计、安全优化、DeFi/NFT 协议、跨链解决方案  <br> Smart Contract Audits, Gas Optimization, DeFi/NFT, Cross-chain Solutions |
 ---
 
-## 🔧 Tech Stack
+## 📁 项目经历 / Featured Projects
 
-- **Languages:** Solidity, Huff, JavaScript, TypeScript, Python  
-- **Tools & Frameworks:** Hardhat, Foundry, Truffle, OpenZeppelin, ethers.js, web3.js  
-- **Specialties:**  
-  - Smart Contract Audit & Optimization  
-  - DeFi/NFT Protocols  
-  - DEX Backend/Frontend  
-  - Gas Efficiency & Opcode-level Tweaks  
-  - Cross-chain Solutions  
+### 🛡️ 智能合约审计 / Smart Contract Audits
 
----
+* [Audit-crossBridge](https://github.com/jupiter-Pulin/Audit-crossBridge)
+* [Audit\_thunderloan](https://github.com/jupiter-Pulin/Audit_thunderloan)
+* [AUDIT\_VAULT-GUARDIAN](https://github.com/jupiter-Pulin/AUDIT_VAULT-GUARDIAN)
+* [puppyRaffle-audit](https://github.com/jupiter-Pulin/puppyRaffle-audit)
+* [TSwap-audit](https://github.com/jupiter-Pulin/TSwap-audit)
 
-## 📁 Featured Projects
+### 💹 DeFi & DEX
 
-### 🛡️ Smart Contract Audits
-- [Audit-crossBridge](https://github.com/jupiter-Pulin/Audit-crossBridge)
-- [Audit_thunderloan](https://github.com/jupiter-Pulin/Audit_thunderloan)
-- [AUDIT_VAULT-GUARDIAN](https://github.com/jupiter-Pulin/AUDIT_VAULT-GUARDIAN)
-- [puppyRaffle-audit](https://github.com/jupiter-Pulin/puppyRaffle-audit)
-- [TSwap-audit](https://github.com/jupiter-Pulin/TSwap-audit)
-
-### 💹 DEX & DeFi
-- [DEX_2025_BACKEND](https://github.com/jupiter-Pulin/DEX_2025_BACKEND)
-- [DEX_2025_FRONTED](https://github.com/jupiter-Pulin/DEX_2025_FRONTED)
-- [DEFI_DSC_2025](https://github.com/jupiter-Pulin/DEFI_DSC_2025)
-- [AUTO_TRANDING](https://github.com/jupiter-Pulin/AUTO_TRANDING)
+* [DEX\_2025\_BACKEND](https://github.com/jupiter-Pulin/DEX_2025_BACKEND)
+* [DEX\_2025\_FRONTED](https://github.com/jupiter-Pulin/DEX_2025_FRONTED)
+* [DEFI\_DSC\_2025](https://github.com/jupiter-Pulin/DEFI_DSC_2025)
+* [AUTO\_TRANDING](https://github.com/jupiter-Pulin/AUTO_TRANDING)
 
 ### 🎁 NFT & Airdrop
-- [MARKLE_AIRDROP](https://github.com/jupiter-Pulin/MARKLE_AIRDROP)
-- [NFT_2025](https://github.com/jupiter-Pulin/NFT_2025)
-- [RAFFLE_HARDHAT](https://github.com/jupiter-Pulin/RAFFLE_HARDHAT)
 
-### 🧪 Research / Tools
-- [gas_Optimization](https://github.com/jupiter-Pulin/gas_Optimization)
-- [huff_opcode](https://github.com/jupiter-Pulin/huff_opcode)
-- [Upgrad-Contract](https://github.com/jupiter-Pulin/Upgrad-Contract)
+* [MARKLE\_AIRDROP](https://github.com/jupiter-Pulin/MARKLE_AIRDROP)
+* [NFT\_2025](https://github.com/jupiter-Pulin/NFT_2025)
 
-### 📚 Others
-- [MATHMASTER](https://github.com/jupiter-Pulin/MATHMASTER)
-- [FIRST_FLIGHTS_FUNDME](https://github.com/jupiter-Pulin/FIRST_FLIGHTS_FUNDME)
-- [jupiter_Pulin](https://github.com/jupiter-Pulin/jupiter_Pulin)
+### 🧪 工具 & 研究 / Tools & Research
+
+* [gas\_Optimization](https://github.com/jupiter-Pulin/gas_Optimization)
+* [huff\_opcode](https://github.com/jupiter-Pulin/huff_opcode)
+* [Upgrad-Contract](https://github.com/jupiter-Pulin/Upgrad-Contract)
 
 ---
 
-## 📫 Contact Me
+## 📫 联系方式 / Contact
 
-- 📧 Email: your_email@example.com  
-- 🌐 Blog: [your blog link, if any]  
-- 📄 [LinkedIn / 个人主页 / CSDN / 简历 PDF 链接（可选）]
-
+* 📧 Email: pulin7490@gmail.com`
 ---
 
-🛠️ *Always learning. Always building.*
+> 🛠️ *Always learning. Always building.*
+> 🛠️ *不断学习，不断创造。*
